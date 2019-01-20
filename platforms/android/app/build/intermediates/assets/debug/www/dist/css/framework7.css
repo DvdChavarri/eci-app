@@ -112,7 +112,7 @@ p {
   color: #ff3b30;
 }
 .ios .color-theme-green a {
-  color: #4cd964;
+  color: #022502;  /*4cd964*/ /*062b0c*/ /*022502*/
 }
 .ios .color-theme-blue a {
   color: #007aff;
@@ -139,7 +139,7 @@ p {
   color: #ff3b30;
 }
 .ios a.color-green {
-  color: #4cd964;
+  color: #022502;
 }
 .ios a.color-blue {
   color: #007aff;
@@ -181,7 +181,7 @@ p {
   color: #f44336;
 }
 .md .color-theme-green a {
-  color: #4caf50;
+  color: #062b0c; /*4caf50*/ /*062b0c*/
 }
 .md .color-theme-blue a {
   color: #2196f3;
@@ -208,7 +208,7 @@ p {
   color: #f44336;
 }
 .md a.color-green {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md a.color-blue {
   color: #2196f3;
@@ -1304,7 +1304,7 @@ html.with-statusbar.device-iphone-x .framework7-root {
 }
 .md .color-theme-green .navbar,
 .md .color-theme-green.navbar {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .color-theme-blue .navbar,
 .md .color-theme-blue.navbar {
@@ -1338,7 +1338,7 @@ html.with-statusbar.device-iphone-x .framework7-root {
   background: #f44336;
 }
 .md .navbar.color-green {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .navbar.color-blue {
   background: #2196f3;
@@ -1690,7 +1690,7 @@ html.with-statusbar.device-iphone-x .framework7-root {
 .ios .color-theme-green .tabbar-labels a.tab-link-active,
 .ios .color-theme-green.tabbar-labels a.tab-link-active,
 .ios .color-theme-green.tabbar a.tab-link-active {
-  color: #4cd964;
+  color: #022502;
 }
 .ios .color-theme-blue .tabbar a.tab-link-active,
 .ios .color-theme-blue .tabbar-labels a.tab-link-active,
@@ -1740,7 +1740,7 @@ html.with-statusbar.device-iphone-x .framework7-root {
 }
 .ios .tabbar-labels.color-green a.tab-link-active,
 .ios .tabbar.color-green a.tab-link-active {
-  color: #4cd964;
+  color: #022502;
 }
 .ios .tabbar-labels.color-blue a.tab-link-active,
 .ios .tabbar.color-blue a.tab-link-active {
@@ -2107,7 +2107,7 @@ html.with-statusbar.device-iphone-x .framework7-root {
 }
 .md .color-theme-green .toolbar:not(.messagebar),
 .md .color-theme-green.toolbar:not(.messagebar) {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .color-theme-blue .toolbar:not(.messagebar),
 .md .color-theme-blue.toolbar:not(.messagebar) {
@@ -2141,7 +2141,7 @@ html.with-statusbar.device-iphone-x .framework7-root {
   background: #f44336;
 }
 .md .toolbar:not(.messagebar).color-green {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .toolbar:not(.messagebar).color-blue {
   background: #2196f3;
@@ -2596,7 +2596,7 @@ html.with-statusbar.device-iphone-x .framework7-root {
 }
 .md .color-theme-green .subnavbar,
 .md .color-theme-green.subnavbar {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .color-theme-blue .subnavbar,
 .md .color-theme-blue.subnavbar {
@@ -2630,7 +2630,7 @@ html.with-statusbar.device-iphone-x .framework7-root {
   background: #f44336;
 }
 .md .subnavbar.color-green {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .subnavbar.color-blue {
   background: #2196f3;
@@ -4505,7 +4505,7 @@ html.device-pixel-ratio-3 .ios li:last-child li .item-inner:after {
   color: #ff3b30;
 }
 .ios .color-theme-green .list-button {
-  color: #4cd964;
+  color: #022502;
 }
 .ios .color-theme-blue .list-button {
   color: #007aff;
@@ -4544,7 +4544,7 @@ html.device-pixel-ratio-3 .ios li:last-child li .item-inner:after {
 .ios .links-list a.color-green,
 .ios .list .item-link.color-green,
 .ios .list li.color-green .item-link {
-  color: #4cd964;
+  color: #022502;
 }
 .ios .list .list-button.color-blue,
 .ios .list li.color-blue .list-button,
@@ -5317,7 +5317,7 @@ html.device-pixel-ratio-3 .md li:last-child li .item-inner:after {
   color: #f44336;
 }
 .md .color-theme-green .list-button {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md .color-theme-blue .list-button {
   color: #2196f3;
@@ -5356,7 +5356,7 @@ html.device-pixel-ratio-3 .md li:last-child li .item-inner:after {
 .md .links-list a.color-green,
 .md .list .item-link.color-green,
 .md .list li.color-green .item-link {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md .list .list-button.color-blue,
 .md .list li.color-blue .list-button,
@@ -5466,7 +5466,7 @@ html.device-pixel-ratio-3 .md li:last-child li .item-inner:after {
   background-color: #ff3b30;
 }
 .ios .badge.color-green {
-  background-color: #4cd964;
+  background-color: #022502;
 }
 .ios .badge.color-blue {
   background-color: #007aff;
@@ -5508,7 +5508,7 @@ html.device-pixel-ratio-3 .md li:last-child li .item-inner:after {
   background-color: #f44336;
 }
 .md .badge.color-green {
-  background-color: #4caf50;
+  background-color: #062b0c;
 }
 .md .badge.color-blue {
   background-color: #2196f3;
@@ -5710,8 +5710,8 @@ button {
   background-color: transparent;
 }
 .ios .color-theme-green .button {
-  border-color: #4cd964;
-  color: #4cd964;
+  border-color: #022502;
+  color: #022502;
 }
 .ios .color-theme-green .button.active-state {
   background: rgba(76, 217, 100, 0.15);
@@ -5724,19 +5724,19 @@ button {
 }
 .ios .color-theme-green .button.button-active,
 .ios .color-theme-green .button.tab-link-active {
-  background: #4cd964;
+  background: #022502;
 }
 .ios .color-theme-green .button.button-fill,
 .ios .color-theme-green .button.button-fill-ios {
-  background: #4cd964;
+  background: #022502;
   border-color: transparent;
 }
 .ios .color-theme-green .button.button-small.button-fill.active-state,
 .ios .color-theme-green .button.button-small-ios.button-fill.active-state,
 .ios .color-theme-green .button.button-small.button-fill-ios.active-state,
 .ios .color-theme-green .button.button-small-ios.button-fill-ios.active-state {
-  color: #4cd964;
-  border: 2px solid #4cd964;
+  color: #022502;
+  border: 2px solid #022502;
   background-color: transparent;
 }
 .ios .color-theme-blue .button {
@@ -5980,8 +5980,8 @@ button {
   background-color: transparent;
 }
 .ios .button.color-green {
-  border-color: #4cd964;
-  color: #4cd964;
+  border-color: #022502;
+  color: #022502;
 }
 .ios .button.color-green.active-state {
   background: rgba(76, 217, 100, 0.15);
@@ -5994,19 +5994,19 @@ button {
 }
 .ios .button.color-green.button-active,
 .ios .button.color-green.tab-link-active {
-  background: #4cd964;
+  background: #022502;
 }
 .ios .button.color-green.button-fill,
 .ios .button.color-green.button-fill-ios {
-  background: #4cd964;
+  background: #022502;
   border-color: transparent;
 }
 .ios .button.color-green.button-small.button-fill.active-state,
 .ios .button.color-green.button-small-ios.button-fill.active-state,
 .ios .button.color-green.button-small.button-fill-ios.active-state,
 .ios .button.color-green.button-small-ios.button-fill-ios.active-state {
-  color: #4cd964;
-  border: 2px solid #4cd964;
+  color: #022502;
+  border: 2px solid #022502;
   background-color: transparent;
 }
 .ios .button.color-blue {
@@ -6380,7 +6380,7 @@ button {
 }
 .md .color-theme-green .button,
 .md .color-green .button {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md .color-theme-green .button.button-fill,
 .md .color-green .button.button-fill,
@@ -6390,7 +6390,7 @@ button {
 .md .color-green .button.button-active,
 .md .color-theme-green .button.tab-link-active,
 .md .color-green .button.tab-link-active {
-  background-color: #4caf50;
+  background-color: #062b0c;
   color: #fff;
 }
 .md .color-theme-green .button.button-fill.active-state,
@@ -6405,7 +6405,7 @@ button {
 }
 .md .color-theme-green .button.button-outline,
 .md .color-green .button.button-outline {
-  border-color: #4caf50;
+  border-color: #062b0c;
 }
 .md .color-theme-blue .button,
 .md .color-blue .button {
@@ -6630,13 +6630,13 @@ button {
   border-color: #f44336;
 }
 .md .button.color-green {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md .button.color-green.button-fill,
 .md .button.color-green.button-fill-md,
 .md .button.color-green.button-active,
 .md .button.color-green.tab-link-active {
-  background-color: #4caf50;
+  background-color: #062b0c;
   color: #fff;
 }
 .md .button.color-green.button-fill.active-state,
@@ -6646,7 +6646,7 @@ button {
   background: #409343;
 }
 .md .button.color-green.button-outline {
-  border-color: #4caf50;
+  border-color: #062b0c;
 }
 .md .button.color-blue {
   color: #2196f3;
@@ -7092,7 +7092,7 @@ i.icon {
   color: #ff3b30;
 }
 .ios .icon.color-green {
-  color: #4cd964;
+  color: #022502;
 }
 .ios .icon.color-blue {
   color: #007aff;
@@ -7296,7 +7296,7 @@ i.icon {
   color: #f44336;
 }
 .md .icon.color-green {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md .icon.color-blue {
   color: #2196f3;
@@ -7637,7 +7637,7 @@ html.with-modal-dialog .page-content {
   color: #ff3b30;
 }
 .ios .dialog-button.color-green {
-  color: #4cd964;
+  color: #022502;
 }
 .ios .dialog-button.color-blue {
   color: #007aff;
@@ -7811,7 +7811,7 @@ input[type="button"].md .dialog-button {
   color: #f44336;
 }
 .md .dialog-button.color-green {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md .dialog-button.color-blue {
   color: #2196f3;
@@ -8077,7 +8077,7 @@ html.with-statusbar.md:not(.device-ios):not(.device-android) .login-screen {
   color: #f44336;
 }
 .md .color-theme-green .login-screen-content .list-button {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md .color-theme-blue .login-screen-content .list-button {
   color: #2196f3;
@@ -8104,7 +8104,7 @@ html.with-statusbar.md:not(.device-ios):not(.device-android) .login-screen {
   color: #f44336;
 }
 .md .login-screen-content .list-button.color-green {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md .login-screen-content .list-button.color-blue {
   color: #2196f3;
@@ -8769,7 +8769,7 @@ html.with-statusbar.md:not(.device-ios):not(.device-android) .login-screen {
 }
 .ios .actions-button.color-green,
 .ios .actions-label.color-green {
-  color: #4cd964;
+  color: #022502;
 }
 .ios .actions-button.color-blue,
 .ios .actions-label.color-blue {
@@ -8912,7 +8912,7 @@ html.with-statusbar.md:not(.device-ios):not(.device-android) .login-screen {
 .md .actions-button.color-green,
 .md .actions-label.color-green,
 .md .actions-button.color-green .actions-button-text {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md .actions-button.color-blue,
 .md .actions-label.color-blue,
@@ -9582,7 +9582,7 @@ html.with-modal-preloader .page-content {
 .md .preloader.preloader-green .preloader-inner-gap,
 .md .preloader.color-green .preloader-inner-half-circle,
 .md .preloader.preloader-green .preloader-inner-half-circle {
-  border-color: #4caf50;
+  border-color: #062b0c;
 }
 .md .preloader.color-blue .preloader-inner-gap,
 .md .preloader.preloader-blue .preloader-inner-gap,
@@ -9998,9 +9998,9 @@ body > .progressbar-infinite,
 }
 .ios .progressbar-infinite.color-multi:before {
   width: 400%;
-  background-image: -webkit-gradient(linear, left top, right top, from(#4cd964), color-stop(#5ac8fa), color-stop(#007aff), color-stop(#34aadc), color-stop(#5856d6), color-stop(#ff2d55), color-stop(#5856d6), color-stop(#34aadc), color-stop(#007aff), color-stop(#5ac8fa), to(#4cd964));
-  background-image: -webkit-linear-gradient(left, #4cd964, #5ac8fa, #007aff, #34aadc, #5856d6, #ff2d55, #5856d6, #34aadc, #007aff, #5ac8fa, #4cd964);
-  background-image: linear-gradient(to right, #4cd964, #5ac8fa, #007aff, #34aadc, #5856d6, #ff2d55, #5856d6, #34aadc, #007aff, #5ac8fa, #4cd964);
+  background-image: -webkit-gradient(linear, left top, right top, from(#022502), color-stop(#5ac8fa), color-stop(#007aff), color-stop(#34aadc), color-stop(#5856d6), color-stop(#ff2d55), color-stop(#5856d6), color-stop(#34aadc), color-stop(#007aff), color-stop(#5ac8fa), to(#022502));
+  background-image: -webkit-linear-gradient(left, #022502, #5ac8fa, #007aff, #34aadc, #5856d6, #ff2d55, #5856d6, #34aadc, #007aff, #5ac8fa, #022502);
+  background-image: linear-gradient(to right, #022502, #5ac8fa, #007aff, #34aadc, #5856d6, #ff2d55, #5856d6, #34aadc, #007aff, #5ac8fa, #022502);
   background-size: 25% 100%;
   background-repeat: repeat-x;
   -webkit-animation: ios-progressbar-infinite-multicolor 3s linear infinite;
@@ -10013,10 +10013,10 @@ body > .progressbar-infinite,
   background: #ff3b30;
 }
 .ios .color-theme-green .progressbar span {
-  background: #4cd964;
+  background: #022502;
 }
 .ios .color-theme-green .progressbar-infinite:before {
-  background: #4cd964;
+  background: #022502;
 }
 .ios .color-theme-blue .progressbar span {
   background: #007aff;
@@ -10067,10 +10067,10 @@ body > .progressbar-infinite,
   background: #ff3b30;
 }
 .ios .progressbar.color-green span {
-  background: #4cd964;
+  background: #022502;
 }
 .ios .progressbar-infinite.color-green:before {
-  background: #4cd964;
+  background: #022502;
 }
 .ios .progressbar.color-blue span {
   background: #007aff;
@@ -10208,11 +10208,11 @@ body > .progressbar-infinite,
   background: rgba(76, 175, 80, 0.5);
 }
 .md .color-theme-green .progressbar span {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .color-theme-green .progressbar-infinite:before,
 .md .color-theme-green .progressbar-infinite:after {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .color-theme-blue .progressbar,
 .md .color-theme-blue .progressbar-infinite {
@@ -10307,11 +10307,11 @@ body > .progressbar-infinite,
   background: rgba(76, 175, 80, 0.5);
 }
 .md .progressbar.color-green span {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .progressbar-infinite.color-green:before,
 .md .progressbar-infinite.color-green:after {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .progressbar.color-blue,
 .md .progressbar-infinite.color-blue {
@@ -10472,7 +10472,7 @@ body > .progressbar-infinite,
 }
 @-webkit-keyframes md-progressbar-infinite-multicolor-bg {
   0% {
-    background-color: #4caf50;
+    background-color: #062b0c;
   }
   25% {
     background-color: #f44336;
@@ -10486,7 +10486,7 @@ body > .progressbar-infinite,
 }
 @keyframes md-progressbar-infinite-multicolor-bg {
   0% {
-    background-color: #4caf50;
+    background-color: #062b0c;
   }
   25% {
     background-color: #f44336;
@@ -10532,12 +10532,12 @@ body > .progressbar-infinite,
   75% {
     -webkit-transform: scaleX(0);
     transform: scaleX(0);
-    background-color: #4caf50;
+    background-color: #062b0c;
   }
   100% {
     -webkit-transform: scaleX(1);
     transform: scaleX(1);
-    background-color: #4caf50;
+    background-color: #062b0c;
   }
 }
 @keyframes md-progressbar-infinite-multicolor-fill {
@@ -10574,12 +10574,12 @@ body > .progressbar-infinite,
   75% {
     -webkit-transform: scaleX(0);
     transform: scaleX(0);
-    background-color: #4caf50;
+    background-color: #062b0c;
   }
   100% {
     -webkit-transform: scaleX(1);
     transform: scaleX(1);
-    background-color: #4caf50;
+    background-color: #062b0c;
   }
 }
 /* === Sortable === */
@@ -10852,7 +10852,7 @@ body > .progressbar-infinite,
 .ios .swipeout-actions-right > span.color-green,
 .ios .swipeout-actions-left > div.color-green,
 .ios .swipeout-actions-right > div.color-green {
-  background-color: #4cd964;
+  background-color: #022502;
 }
 .ios .swipeout-actions-left > a.color-blue,
 .ios .swipeout-actions-right > a.color-blue,
@@ -10957,7 +10957,7 @@ body > .progressbar-infinite,
 .md .swipeout-actions-right > span.color-green,
 .md .swipeout-actions-left > div.color-green,
 .md .swipeout-actions-right > div.color-green {
-  background-color: #4caf50;
+  background-color: #062b0c;
 }
 .md .swipeout-actions-left > a.color-blue,
 .md .swipeout-actions-right > a.color-blue,
@@ -11396,13 +11396,13 @@ html.device-android-4 .accordion-item-content {
 }
 .ios .color-theme-green .list-index ul,
 .ios .list-index.color-theme-green ul {
-  color: #4cd964;
+  color: #022502;
 }
 .ios .color-theme-green .list-index .list-index-skip-placeholder:after,
 .ios .list-index.color-theme-green .list-index-skip-placeholder:after,
 .ios .color-theme-green .list-index .list-index-label,
 .ios .list-index.color-theme-green .list-index-label {
-  background-color: #4cd964;
+  background-color: #022502;
 }
 .ios .color-theme-blue .list-index ul,
 .ios .list-index.color-theme-blue ul {
@@ -11482,11 +11482,11 @@ html.device-android-4 .accordion-item-content {
   background-color: #ff3b30;
 }
 .ios .list-index.color-green ul {
-  color: #4cd964;
+  color: #022502;
 }
 .ios .list-index.color-green .list-index-skip-placeholder:after,
 .ios .list-index.color-green .list-index-label {
-  background-color: #4cd964;
+  background-color: #022502;
 }
 .ios .list-index.color-blue ul {
   color: #007aff;
@@ -11606,13 +11606,13 @@ html.device-android-4 .accordion-item-content {
 }
 .md .color-theme-green .list-index ul,
 .md .list-index.color-theme-green ul {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md .color-theme-green .list-index .list-index-skip-placeholder:after,
 .md .list-index.color-theme-green .list-index-skip-placeholder:after,
 .md .color-theme-green .list-index .list-index-label,
 .md .list-index.color-theme-green .list-index-label {
-  background-color: #4caf50;
+  background-color: #062b0c;
 }
 .md .color-theme-blue .list-index ul,
 .md .list-index.color-theme-blue ul {
@@ -11692,11 +11692,11 @@ html.device-android-4 .accordion-item-content {
   background-color: #f44336;
 }
 .md .list-index.color-green ul {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md .list-index.color-green .list-index-skip-placeholder:after,
 .md .list-index.color-green .list-index-label {
-  background-color: #4caf50;
+  background-color: #062b0c;
 }
 .md .list-index.color-blue ul {
   color: #2196f3;
@@ -12926,7 +12926,7 @@ html.device-android-4 .accordion-item-content {
 .md .color-theme-green .timeline-item-date,
 .md .color-theme-green .timeline-year-title,
 .md .color-theme-green .timeline-month-title {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .color-theme-blue .timeline-item-date,
 .md .color-theme-blue .timeline-year-title,
@@ -12971,7 +12971,7 @@ html.device-android-4 .accordion-item-content {
 .md .timeline.color-theme-green .timeline-item-date,
 .md .timeline.color-theme-green .timeline-year-title,
 .md .timeline.color-theme-green .timeline-month-title {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .timeline.color-theme-blue .timeline-item-date,
 .md .timeline.color-theme-blue .timeline-year-title,
@@ -13598,7 +13598,7 @@ input[type="button"].md .card-footer a.link {
 .md .color-theme-green .card-footer a.link,
 .md .card-header.color-theme-green a.link,
 .md .card-footer.color-theme-green a.link {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md .color-theme-blue .card-header a.link,
 .md .color-theme-blue .card-footer a.link,
@@ -13648,7 +13648,7 @@ input[type="button"].md .card-footer a.link {
 }
 .md .card-header a.link.color-green,
 .md .card-footer a.link.color-green {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md .card-header a.link.color-blue,
 .md .card-footer a.link.color-blue {
@@ -13806,13 +13806,13 @@ input[type="button"].md .card-footer a.link {
   color: #ff3b30;
 }
 .ios .chip.color-green {
-  background: #4cd964;
+  background: #022502;
   color: #fff;
 }
 .ios .chip.color-green.chip-outline {
   background: none;
-  border-color: #4cd964;
-  color: #4cd964;
+  border-color: #022502;
+  color: #022502;
 }
 .ios .chip.color-blue {
   background: #007aff;
@@ -13938,13 +13938,13 @@ input[type="button"].md .card-footer a.link {
   color: #f44336;
 }
 .md .chip.color-green {
-  background: #4caf50;
+  background: #062b0c;
   color: #fff;
 }
 .md .chip.color-green.chip-outline {
   background: none;
-  border-color: #4caf50;
-  color: #4caf50;
+  border-color: #062b0c;
+  color: #062b0c;
 }
 .md .chip.color-blue {
   background: #2196f3;
@@ -14754,11 +14754,11 @@ textarea {
 }
 .md .color-theme-green .item-input-focused .item-label,
 .md .color-theme-green .item-input-focused .item-floating-label {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md .color-theme-green .item-input-focused .item-input-wrap:after,
 .md .color-theme-green .input-after:after {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .color-theme-blue .item-input-focused .item-label,
 .md .color-theme-blue .item-input-focused .item-floating-label {
@@ -14826,7 +14826,7 @@ textarea {
 }
 .md .item-input-focused.color-green .item-label,
 .md .item-input-focused.color-green .item-floating-label {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md .item-input-focused.color-green .item-input-wrap:after,
 .md .input-after.color-green:after {
@@ -14987,7 +14987,7 @@ label.item-checkbox.disabled,
 }
 .ios .color-theme-green label.item-checkbox input[type="checkbox"]:checked ~ .icon-checkbox,
 .ios .color-theme-green .checkbox input[type="checkbox"]:checked ~ i {
-  background: #4cd964;
+  background: #022502;
 }
 .ios .color-theme-blue label.item-checkbox input[type="checkbox"]:checked ~ .icon-checkbox,
 .ios .color-theme-blue .checkbox input[type="checkbox"]:checked ~ i {
@@ -15023,7 +15023,7 @@ label.item-checkbox.disabled,
 }
 .ios label.item-checkbox.color-green input[type="checkbox"]:checked ~ .icon-checkbox,
 .ios .checkbox.color-green input[type="checkbox"]:checked ~ i {
-  background: #4cd964;
+  background: #022502;
 }
 .ios label.item-checkbox.color-blue input[type="checkbox"]:checked ~ .icon-checkbox,
 .ios .checkbox.color-blue input[type="checkbox"]:checked ~ i {
@@ -15123,8 +15123,8 @@ label.item-checkbox.disabled,
 .md .color-theme-green label.item-checkbox input[type="checkbox"]:checked ~ .icon-checkbox,
 .md .color-theme-green label.item-checkbox input[type="checkbox"]:checked ~ * .icon-checkbox,
 .md .color-theme-green .checkbox input[type="checkbox"]:checked ~ i {
-  background-color: #4caf50;
-  border-color: #4caf50;
+  background-color: #062b0c;
+  border-color: #062b0c;
 }
 .md .color-theme-green .checkbox .ripple-wave {
   background: rgba(76, 175, 80, 0.5);
@@ -15204,8 +15204,8 @@ label.item-checkbox.disabled,
 .md label.item-checkbox.color-green input[type="checkbox"]:checked ~ .icon-checkbox,
 .md label.item-checkbox.color-green input[type="checkbox"]:checked ~ * .icon-checkbox,
 .md .checkbox.color-green input[type="checkbox"]:checked ~ i {
-  background-color: #4caf50;
-  border-color: #4caf50;
+  background-color: #062b0c;
+  border-color: #062b0c;
 }
 .md .checkbox.color-green .ripple-wave {
   background: rgba(76, 175, 80, 0.5);
@@ -15398,7 +15398,7 @@ label.item-radio.disabled,
   background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2013%2010'%3E%3Cpolygon%20fill%3D'%234cd964'%20points%3D'11.6%2C0%204.4%2C7.2%201.4%2C4.2%200%2C5.6%204.4%2C10%204.4%2C10%204.4%2C10%2013%2C1.4%20'%2F%3E%3C%2Fsvg%3E");
 }
 .ios .color-theme-green .radio input[type="radio"]:checked ~ .icon-radio {
-  border-color: #4cd964;
+  border-color: #022502;
 }
 .ios .color-theme-blue label.item-radio input[type="radio"]:checked ~ .icon-radio,
 .ios .color-theme-blue label.item-radio input[type="radio"]:checked ~ * .icon-radio,
@@ -15470,7 +15470,7 @@ label.item-radio.disabled,
   background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2013%2010'%3E%3Cpolygon%20fill%3D'%234cd964'%20points%3D'11.6%2C0%204.4%2C7.2%201.4%2C4.2%200%2C5.6%204.4%2C10%204.4%2C10%204.4%2C10%2013%2C1.4%20'%2F%3E%3C%2Fsvg%3E");
 }
 .ios .radio.color-green input[type="radio"]:checked ~ .icon-radio {
-  border-color: #4cd964;
+  border-color: #022502;
 }
 .ios label.item-radio.color-blue input[type="radio"]:checked ~ .icon-radio,
 .ios label.item-radio.color-blue input[type="radio"]:checked ~ * .icon-radio,
@@ -15608,17 +15608,17 @@ label.item-radio.disabled,
   background: rgba(244, 67, 54, 0.5);
 }
 .md .color-theme-green .icon-radio:after {
-  background-color: #4caf50;
+  background-color: #062b0c;
 }
 .md .color-theme-green label.item-radio input[type="radio"]:checked ~ .icon-radio,
 .md .color-theme-green label.item-radio input[type="radio"]:checked ~ * .icon-radio,
 .md .color-theme-green .radio input[type="radio"]:checked ~ .icon-radio {
-  border-color: #4caf50;
+  border-color: #062b0c;
 }
 .md .color-theme-green label.item-radio input[type="radio"]:checked ~ .icon-radio:after,
 .md .color-theme-green label.item-radio input[type="radio"]:checked ~ * .icon-radio:after,
 .md .color-theme-green .radio input[type="radio"]:checked ~ .icon-radio:after {
-  background-color: #4caf50;
+  background-color: #062b0c;
 }
 .md .color-theme-green .radio .ripple-wave {
   background: rgba(76, 175, 80, 0.5);
@@ -15752,17 +15752,17 @@ label.item-radio.disabled,
   background: rgba(244, 67, 54, 0.5);
 }
 .md .radio.color-green .icon-radio:after {
-  background-color: #4caf50;
+  background-color: #062b0c;
 }
 .md label.item-radio.color-green input[type="radio"]:checked ~ .icon-radio,
 .md label.item-radio.color-green input[type="radio"]:checked ~ * .icon-radio,
 .md .radio.color-green input[type="radio"]:checked ~ .icon-radio {
-  border-color: #4caf50;
+  border-color: #062b0c;
 }
 .md label.item-radio.color-green input[type="radio"]:checked ~ .icon-radio:after,
 .md label.item-radio.color-green input[type="radio"]:checked ~ * .icon-radio:after,
 .md .radio.color-green input[type="radio"]:checked ~ .icon-radio:after {
-  background-color: #4caf50;
+  background-color: #062b0c;
 }
 .md .radio.color-green .ripple-wave {
   background: rgba(76, 175, 80, 0.5);
@@ -15935,7 +15935,7 @@ label.item-radio.disabled,
   height: 32px;
 }
 .ios .toggle input[type="checkbox"]:checked + .toggle-icon {
-  background: #4cd964;
+  background: #022502;
 }
 .ios .toggle input[type="checkbox"]:checked + .toggle-icon:before {
   -webkit-transform: scale(0);
@@ -15998,7 +15998,7 @@ label.item-radio.disabled,
   background-color: #ff3b30;
 }
 .ios .toggle.color-green input[type="checkbox"]:checked + .toggle-icon {
-  background-color: #4cd964;
+  background-color: #022502;
 }
 .ios .toggle.color-blue input[type="checkbox"]:checked + .toggle-icon {
   background-color: #007aff;
@@ -16058,7 +16058,7 @@ label.item-radio.disabled,
   background: rgba(76, 175, 80, 0.5);
 }
 .md .color-theme-green .toggle input[type="checkbox"]:checked + .toggle-icon:after {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .color-theme-blue .toggle input[type="checkbox"]:checked + .toggle-icon {
   background: rgba(33, 150, 243, 0.5);
@@ -16112,7 +16112,7 @@ label.item-radio.disabled,
   background: rgba(76, 175, 80, 0.5);
 }
 .md .toggle.color-green input[type="checkbox"]:checked + .toggle-icon:after {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .toggle.color-blue input[type="checkbox"]:checked + .toggle-icon {
   background: rgba(33, 150, 243, 0.5);
@@ -16273,7 +16273,7 @@ label.item-radio.disabled,
   background-color: #ff3b30;
 }
 .ios .color-theme-green .range-slider .range-bar-active {
-  background-color: #4cd964;
+  background-color: #022502;
 }
 .ios .color-theme-blue .range-slider .range-bar-active {
   background-color: #007aff;
@@ -16300,7 +16300,7 @@ label.item-radio.disabled,
   background-color: #ff3b30;
 }
 .ios .range-slider.color-green .range-bar-active {
-  background-color: #4cd964;
+  background-color: #022502;
 }
 .ios .range-slider.color-blue .range-bar-active {
   background-color: #007aff;
@@ -16400,7 +16400,7 @@ label.item-radio.disabled,
 .md .color-theme-green .range-slider .range-knob,
 .md .color-theme-green .range-slider .range-knob-label,
 .md .color-theme-green .range-slider .range-knob-label:before {
-  background-color: #4caf50;
+  background-color: #062b0c;
 }
 .md .color-theme-blue .range-slider .range-bar-active,
 .md .color-theme-blue .range-slider .range-knob,
@@ -16454,7 +16454,7 @@ label.item-radio.disabled,
 .md .range-slider.color-green .range-knob,
 .md .range-slider.color-green .range-knob-label,
 .md .range-slider.color-green .range-knob-label:before {
-  background-color: #4caf50;
+  background-color: #062b0c;
 }
 .md .range-slider.color-blue .range-bar-active,
 .md .range-slider.color-blue .range-knob,
@@ -16858,8 +16858,8 @@ label.item-radio.disabled,
 .ios .color-theme-green .stepper .stepper-button,
 .ios .color-theme-green .stepper .stepper-button-minus,
 .ios .color-theme-green .stepper .stepper-button-plus {
-  border-color: #4cd964;
-  color: #4cd964;
+  border-color: #022502;
+  color: #022502;
 }
 .ios .color-theme-green .stepper .stepper-button.active-state,
 .ios .color-theme-green .stepper .stepper-button-minus.active-state,
@@ -16870,18 +16870,18 @@ label.item-radio.disabled,
 .ios .color-theme-green .stepper .stepper-button-minus:after,
 .ios .color-theme-green .stepper .stepper-button-plus:before,
 .ios .color-theme-green .stepper .stepper-button-minus:before {
-  background-color: #4cd964;
+  background-color: #022502;
 }
 .ios .color-theme-green .stepper .stepper-value,
 .ios .color-theme-green .stepper .stepper-input-wrap {
-  border-top-color: #4cd964;
-  border-bottom-color: #4cd964;
+  border-top-color: #022502;
+  border-bottom-color: #022502;
 }
 .ios .color-theme-green .stepper .stepper-value {
-  color: #4cd964;
+  color: #022502;
 }
 .ios .color-theme-green .stepper .stepper-input-wrap input {
-  color: #4cd964;
+  color: #022502;
 }
 .ios .color-theme-green .stepper.stepper-fill .stepper-button,
 .ios .color-theme-green .stepper.stepper-fill-ios .stepper-button,
@@ -16889,7 +16889,7 @@ label.item-radio.disabled,
 .ios .color-theme-green .stepper.stepper-fill-ios .stepper-button-minus,
 .ios .color-theme-green .stepper.stepper-fill .stepper-button-plus,
 .ios .color-theme-green .stepper.stepper-fill-ios .stepper-button-plus {
-  background-color: #4cd964;
+  background-color: #022502;
 }
 .ios .color-theme-green .stepper.stepper-fill .stepper-button-plus:before,
 .ios .color-theme-green .stepper.stepper-fill-ios .stepper-button-plus:before,
@@ -16907,8 +16907,8 @@ label.item-radio.disabled,
 .ios .color-theme-green .stepper.stepper-small-ios.stepper-fill .stepper-button-minus.active-state,
 .ios .color-theme-green .stepper.stepper-small.stepper-fill .stepper-button-plus.active-state,
 .ios .color-theme-green .stepper.stepper-small-ios.stepper-fill .stepper-button-plus.active-state {
-  color: #4cd964;
-  border-color: #4cd964;
+  color: #022502;
+  border-color: #022502;
   background-color: transparent;
 }
 .ios .color-theme-green .stepper.stepper-small.stepper-fill .stepper-button-plus.active-state:before,
@@ -16919,7 +16919,7 @@ label.item-radio.disabled,
 .ios .color-theme-green .stepper.stepper-small-ios.stepper-fill .stepper-button-plus.active-state:after,
 .ios .color-theme-green .stepper.stepper-small.stepper-fill .stepper-button-minus.active-state:after,
 .ios .color-theme-green .stepper.stepper-small-ios.stepper-fill .stepper-button-minus.active-state:after {
-  background-color: #4cd964;
+  background-color: #022502;
 }
 .ios .color-theme-blue .stepper .stepper-button,
 .ios .color-theme-blue .stepper .stepper-button-minus,
@@ -17452,8 +17452,8 @@ label.item-radio.disabled,
 .ios .stepper.color-green .stepper-button,
 .ios .stepper.color-green .stepper-button-minus,
 .ios .stepper.color-green .stepper-button-plus {
-  border-color: #4cd964;
-  color: #4cd964;
+  border-color: #022502;
+  color: #022502;
 }
 .ios .stepper.color-green .stepper-button.active-state,
 .ios .stepper.color-green .stepper-button-minus.active-state,
@@ -17464,18 +17464,18 @@ label.item-radio.disabled,
 .ios .stepper.color-green .stepper-button-minus:after,
 .ios .stepper.color-green .stepper-button-plus:before,
 .ios .stepper.color-green .stepper-button-minus:before {
-  background-color: #4cd964;
+  background-color: #022502;
 }
 .ios .stepper.color-green .stepper-value,
 .ios .stepper.color-green .stepper-input-wrap {
-  border-top-color: #4cd964;
-  border-bottom-color: #4cd964;
+  border-top-color: #022502;
+  border-bottom-color: #022502;
 }
 .ios .stepper.color-green .stepper-value {
-  color: #4cd964;
+  color: #022502;
 }
 .ios .stepper.color-green .stepper-input-wrap input {
-  color: #4cd964;
+  color: #022502;
 }
 .ios .stepper.color-green.stepper-fill .stepper-button,
 .ios .stepper.color-green.stepper-fill-ios .stepper-button,
@@ -17483,7 +17483,7 @@ label.item-radio.disabled,
 .ios .stepper.color-green.stepper-fill-ios .stepper-button-minus,
 .ios .stepper.color-green.stepper-fill .stepper-button-plus,
 .ios .stepper.color-green.stepper-fill-ios .stepper-button-plus {
-  background-color: #4cd964;
+  background-color: #022502;
 }
 .ios .stepper.color-green.stepper-fill .stepper-button-plus:before,
 .ios .stepper.color-green.stepper-fill-ios .stepper-button-plus:before,
@@ -17501,8 +17501,8 @@ label.item-radio.disabled,
 .ios .stepper.color-green.stepper-small-ios.stepper-fill .stepper-button-minus.active-state,
 .ios .stepper.color-green.stepper-small.stepper-fill .stepper-button-plus.active-state,
 .ios .stepper.color-green.stepper-small-ios.stepper-fill .stepper-button-plus.active-state {
-  color: #4cd964;
-  border-color: #4cd964;
+  color: #022502;
+  border-color: #022502;
   background-color: transparent;
 }
 .ios .stepper.color-green.stepper-small.stepper-fill .stepper-button-plus.active-state:before,
@@ -17513,7 +17513,7 @@ label.item-radio.disabled,
 .ios .stepper.color-green.stepper-small-ios.stepper-fill .stepper-button-plus.active-state:after,
 .ios .stepper.color-green.stepper-small.stepper-fill .stepper-button-minus.active-state:after,
 .ios .stepper.color-green.stepper-small-ios.stepper-fill .stepper-button-minus.active-state:after {
-  background-color: #4cd964;
+  background-color: #022502;
 }
 .ios .stepper.color-blue .stepper-button,
 .ios .stepper.color-blue .stepper-button-minus,
@@ -18266,25 +18266,25 @@ label.item-radio.disabled,
 .md .color-theme-green .stepper-button,
 .md .color-theme-green .stepper-button-minus,
 .md .color-theme-green .stepper-button-plus {
-  border-color: #4caf50;
-  color: #4caf50;
+  border-color: #062b0c;
+  color: #062b0c;
 }
 .md .color-theme-green .stepper-button-plus:after,
 .md .color-theme-green .stepper-button-minus:after,
 .md .color-theme-green .stepper-button-plus:before,
 .md .color-theme-green .stepper-button-minus:before {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .color-theme-green .stepper-value,
 .md .color-theme-green .stepper-input-wrap {
-  border-top-color: #4caf50;
-  border-bottom-color: #4caf50;
+  border-top-color: #062b0c;
+  border-bottom-color: #062b0c;
 }
 .md .color-theme-green .stepper-value {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md .color-theme-green .stepper .stepper-input-wrap input {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md .color-theme-green .stepper-fill .stepper-button,
 .md .color-theme-green .stepper-fill-md .stepper-button,
@@ -18292,7 +18292,7 @@ label.item-radio.disabled,
 .md .color-theme-green .stepper-fill-md .stepper-button-minus,
 .md .color-theme-green .stepper-fill .stepper-button-plus,
 .md .color-theme-green .stepper-fill-md .stepper-button-plus {
-  background-color: #4caf50;
+  background-color: #062b0c;
   color: #fff;
 }
 .md .color-theme-green .stepper-fill .stepper-button.active-state,
@@ -18752,25 +18752,25 @@ label.item-radio.disabled,
 .md .stepper.color-green .stepper-button,
 .md .stepper.color-green .stepper-button-minus,
 .md .stepper.color-green .stepper-button-plus {
-  border-color: #4caf50;
-  color: #4caf50;
+  border-color: #062b0c;
+  color: #062b0c;
 }
 .md .stepper.color-green .stepper-button-plus:after,
 .md .stepper.color-green .stepper-button-minus:after,
 .md .stepper.color-green .stepper-button-plus:before,
 .md .stepper.color-green .stepper-button-minus:before {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .stepper.color-green .stepper-value,
 .md .stepper.color-green .stepper-input-wrap {
-  border-top-color: #4caf50;
-  border-bottom-color: #4caf50;
+  border-top-color: #062b0c;
+  border-bottom-color: #062b0c;
 }
 .md .stepper.color-green .stepper-value {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md .stepper.color-green .stepper-input-wrap input {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md .stepper.color-green.stepper-fill .stepper-button,
 .md .stepper.color-green.stepper-fill-md .stepper-button,
@@ -18778,7 +18778,7 @@ label.item-radio.disabled,
 .md .stepper.color-green.stepper-fill-md .stepper-button-minus,
 .md .stepper.color-green.stepper-fill .stepper-button-plus,
 .md .stepper.color-green.stepper-fill-md .stepper-button-plus {
-  background-color: #4caf50;
+  background-color: #062b0c;
   color: #fff;
 }
 .md .stepper.color-green.stepper-fill .stepper-button.active-state,
@@ -21854,11 +21854,11 @@ label.item-radio.disabled,
 }
 .ios .color-theme-green .calendar-day.calendar-day-selected .calendar-day-number,
 .ios .color-green .calendar-day.calendar-day-selected .calendar-day-number {
-  background: #4cd964;
+  background: #022502;
 }
 .ios .color-theme-green .calendar-day .calendar-day-event,
 .ios .color-green .calendar-day .calendar-day-event {
-  background: #4cd964;
+  background: #022502;
 }
 .ios .color-theme-blue .calendar-day.calendar-day-selected .calendar-day-number,
 .ios .color-blue .calendar-day.calendar-day-selected .calendar-day-number {
@@ -22165,15 +22165,15 @@ label.item-radio.disabled,
 }
 .md .color-theme-green .calendar-header,
 .md .color-green .calendar-header {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .color-theme-green .calendar-day.calendar-day-today .calendar-day-number,
 .md .color-green .calendar-day.calendar-day-today .calendar-day-number {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md .color-theme-green .calendar-day.calendar-day-selected .calendar-day-number,
 .md .color-green .calendar-day.calendar-day-selected .calendar-day-number {
-  background: #4caf50;
+  background: #062b0c;
   color: #fff;
 }
 .md .color-theme-green .calendar-day.calendar-day-selected .calendar-day-number:after,
@@ -22182,7 +22182,7 @@ label.item-radio.disabled,
 }
 .md .color-theme-green .calendar-day .calendar-day-event,
 .md .color-green .calendar-day .calendar-day-event {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .color-theme-blue .calendar-header,
 .md .color-blue .calendar-header {
@@ -23405,7 +23405,7 @@ html.device-desktop .data-table .sortable-cell:not(.sortable-cell-active) .table
 }
 .ios .color-theme-green .data-table-title-selected,
 .ios .color-green .data-table-title-selected {
-  color: #4cd964;
+  color: #022502;
 }
 .ios .color-theme-blue .data-table-header-selected,
 .ios .data-table-header-selected.color-blue {
@@ -23798,7 +23798,7 @@ html.device-desktop .data-table .sortable-cell:not(.sortable-cell-active) .table
 }
 .md .color-theme-green .data-table-title-selected,
 .md .color-green .data-table-title-selected {
-  color: #4caf50;
+  color: #062b0c;
 }
 .md .color-theme-blue .data-table-header-selected,
 .md .data-table-header-selected.color-blue {
@@ -24242,7 +24242,7 @@ html.device-desktop .data-table .sortable-cell:not(.sortable-cell-active) .table
 .ios .color-theme-green .fab-buttons a,
 .ios .color-theme-green.fab > a,
 .ios .color-theme-green.fab-buttons a {
-  background: #4cd964;
+  background: #022502;
 }
 .ios .color-theme-green .fab > a.active-state,
 .ios .color-theme-green .fab-buttons a.active-state,
@@ -24252,7 +24252,7 @@ html.device-desktop .data-table .sortable-cell:not(.sortable-cell-active) .table
 }
 .ios .color-theme-green .fab-morph,
 .ios .color-theme-green.fab-morph {
-  background: #4cd964;
+  background: #022502;
 }
 .ios .color-theme-blue .fab > a,
 .ios .color-theme-blue .fab-buttons a,
@@ -24388,7 +24388,7 @@ html.device-desktop .data-table .sortable-cell:not(.sortable-cell-active) .table
 .ios .fab-buttons.color-green a,
 .ios .fab > a.color-green,
 .ios .fab .fab-buttons > a.color-green {
-  background: #4cd964;
+  background: #022502;
 }
 .ios .fab.color-green > a.active-state,
 .ios .fab.color-green .fab-buttons > a.active-state,
@@ -24398,7 +24398,7 @@ html.device-desktop .data-table .sortable-cell:not(.sortable-cell-active) .table
   background: #2cd048;
 }
 .ios .fab-morph.color-green {
-  background: #4cd964;
+  background: #022502;
 }
 .ios .fab.color-blue > a,
 .ios .fab.color-blue .fab-buttons > a,
@@ -24664,7 +24664,7 @@ html.device-desktop .data-table .sortable-cell:not(.sortable-cell-active) .table
 .md .color-theme-green .fab-buttons a,
 .md .color-theme-green.fab > a,
 .md .color-theme-green.fab-buttons a {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .color-theme-green .fab > a.active-state,
 .md .color-theme-green .fab-buttons a.active-state,
@@ -24674,7 +24674,7 @@ html.device-desktop .data-table .sortable-cell:not(.sortable-cell-active) .table
 }
 .md .color-theme-green .fab-morph,
 .md .color-theme-green.fab-morph {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .color-theme-blue .fab > a,
 .md .color-theme-blue .fab-buttons a,
@@ -24810,7 +24810,7 @@ html.device-desktop .data-table .sortable-cell:not(.sortable-cell-active) .table
 .md .fab-buttons.color-green a,
 .md .fab > a.color-green,
 .md .fab .fab-buttons > a.color-green {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .fab.color-green > a.active-state,
 .md .fab.color-green .fab-buttons > a.active-state,
@@ -24820,7 +24820,7 @@ html.device-desktop .data-table .sortable-cell:not(.sortable-cell-active) .table
   background: #409343;
 }
 .md .fab-morph.color-green {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .fab.color-blue > a,
 .md .fab.color-blue .fab-buttons > a,
@@ -25238,7 +25238,7 @@ html.device-desktop .data-table .sortable-cell:not(.sortable-cell-active) .table
   color: #ff3b30;
 }
 .ios .color-theme-green .searchbar-disable-button {
-  color: #4cd964;
+  color: #022502;
 }
 .ios .color-theme-blue .searchbar-disable-button {
   color: #007aff;
@@ -27178,7 +27178,7 @@ button.swiper-pagination-bullet {
 }
 .ios .color-green .swiper-pagination-bullet-active,
 .ios .color-theme-green .swiper-pagination-bullet-active {
-  background: #4cd964;
+  background: #022502;
 }
 .ios .color-green .swiper-pagination-progressbar,
 .ios .color-theme-green .swiper-pagination-progressbar,
@@ -27190,7 +27190,7 @@ button.swiper-pagination-bullet {
 .ios .color-theme-green .swiper-pagination-progressbar .swiper-pagination-progressbar-fill,
 .ios .color-green.swiper-pagination-progressbar .swiper-pagination-progressbar-fill,
 .ios .color-theme-green.swiper-pagination-progressbar .swiper-pagination-progressbar-fill {
-  background: #4cd964;
+  background: #022502;
 }
 .ios .swiper-button-prev.color-blue,
 .ios .swiper-container-rtl .swiper-button-next.color-blue,
@@ -27450,7 +27450,7 @@ button.swiper-pagination-bullet {
 }
 .md .color-green .swiper-pagination-bullet-active,
 .md .color-theme-green .swiper-pagination-bullet-active {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .color-green .swiper-pagination-progressbar,
 .md .color-theme-green .swiper-pagination-progressbar,
@@ -27462,7 +27462,7 @@ button.swiper-pagination-bullet {
 .md .color-theme-green .swiper-pagination-progressbar .swiper-pagination-progressbar-fill,
 .md .color-green.swiper-pagination-progressbar .swiper-pagination-progressbar-fill,
 .md .color-theme-green.swiper-pagination-progressbar .swiper-pagination-progressbar-fill {
-  background: #4caf50;
+  background: #062b0c;
 }
 .md .swiper-button-prev.color-blue,
 .md .swiper-container-rtl .swiper-button-next.color-blue,
@@ -29417,13 +29417,13 @@ iframe#viAd {
   border-color: #ff3b30 !important;
 }
 .ios .text-color-green {
-  color: #4cd964 !important;
+  color: #022502 !important;
 }
 .ios .bg-color-green {
-  background-color: #4cd964 !important;
+  background-color: #022502 !important;
 }
 .ios .border-color-green {
-  border-color: #4cd964 !important;
+  border-color: #022502 !important;
 }
 .ios .text-color-blue {
   color: #007aff !important;
@@ -29544,13 +29544,13 @@ iframe#viAd {
   border-color: #f44336 !important;
 }
 .md .text-color-green {
-  color: #4caf50 !important;
+  color: #062b0c !important;
 }
 .md .bg-color-green {
-  background-color: #4caf50 !important;
+  background-color: #062b0c !important;
 }
 .md .border-color-green {
-  border-color: #4caf50 !important;
+  border-color: #062b0c !important;
 }
 .md .text-color-blue {
   color: #2196f3 !important;

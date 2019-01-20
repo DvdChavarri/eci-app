@@ -7,9 +7,13 @@
     <feature name="BarcodeScanner">
         <param name="android-package" value="com.phonegap.plugins.barcodescanner.BarcodeScanner" />
     </feature>
-    <name>HelloCordova</name>
+    <feature name="SplashScreen">
+        <param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen" />
+        <param name="onload" value="true" />
+    </feature>
+    <name>Callao Experience</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        El Corte Ingles new Callao Experience App.
     </description>
     <author email="dev@cordova.apache.org" href="http://cordova.io">
         Apache Cordova Team
@@ -22,6 +26,15 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+    <icon src="res/icon/icon-48-mdpi.png" />
     <allow-intent href="market:*" />
+    <splash density="port-hdpi" src="res/screen/android/screen-mdpi-portrait.png" />
+    <splash density="port-ldpi" src="res/screen/android/screen-mdpi-portrait.png" />
+    <splash density="port-mdpi" src="res/screen/android/screen-mdpi-portrait.png" />
+    <splash density="port-xhdpi" src="res/screen/android/screen-mdpi-portrait.png" />
     <preference name="loglevel" value="DEBUG" />
+    <preference name="SplashScreenDelay" value="1500" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="ShowSplashScreenSpinner" value="false" />
+    <preference name="Orientation" value="portrait" />
 </widget>

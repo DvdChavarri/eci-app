@@ -773,9 +773,9 @@ hr {
 .md .button.color-green.button-fill,
 .md .button.color-green.button-fill-md,
 .md .button.color-green.tab-link-active {
-    background-image: -moz-linear-gradient( 63deg, rgb(0, 196, 115) 0%, rgb(29, 214, 111) 52%, rgb(58, 231, 107) 100%);
-    background-image: -webkit-linear-gradient( 63deg, rgb(0, 196, 115) 0%, rgb(29, 214, 111) 52%, rgb(58, 231, 107) 100%);
-    background-image: -ms-linear-gradient( 63deg, rgb(0, 196, 115) 0%, rgb(29, 214, 111) 52%, rgb(58, 231, 107) 100%);
+    background-image: -moz-linear-gradient( 63deg, rgb(0, 75, 12) 0%, rgb(7, 75, 19) 52%, rgb(24, 77, 32) 100%); /*background-image: -moz-linear-gradient( 63deg, rgb(0, 196, 115) 0%, rgb(29, 214, 111) 52%, rgb(58, 231, 107) 100%);*/
+    background-image: -webkit-linear-gradient( 63deg, rgb(0, 75, 12) 0%, rgb(7, 75, 19) 52%, rgb(24, 77, 32) 100%); /*background-image: -webkit-linear-gradient( 63deg, rgb(0, 196, 115) 0%, rgb(29, 214, 111) 52%, rgb(58, 231, 107) 100%);*/
+    background-image: -ms-linear-gradient( 63deg, rgb(0, 75, 12) 0%, rgb(7, 75, 19) 52%, rgb(24, 77, 32) 100%); /*background-image: -ms-linear-gradient( 63deg, rgb(0, 196, 115) 0%, rgb(29, 214, 111) 52%, rgb(58, 231, 107) 100%);*/
     color: #ffffff;
 }
 .ios .color-theme-pink .button.gradient,
@@ -894,7 +894,7 @@ hr {
     color: #ffffff
 }
 .color-theme-green .background {
-    background: #009f5d;
+    background: #008116; 
 }
 .color-theme-green .color-theme,
 .color-theme-green .block-title,
@@ -904,7 +904,7 @@ hr {
 .color-theme-green .light.tabbls a.tab-link.active-state,
 .color-theme-green .light.tabbar-labels a.tab-link.tab-link-active,
 .color-theme-green .light.tabbls a.tab-link.tab-link-active {
-    color: #00c473;
+    color: #004b0c;
 }
 .md .color-theme-green.sidebar-fill .panel .page,
 .ios .color-theme-green.sidebar-fill .panel .page,
@@ -915,7 +915,7 @@ hr {
 .color-theme-green .triangle-background:before,
 .color-theme-green .triangle-background:after,
 .color-theme-green .message-sent .message-bubble {
-    background: #00c473;
+    background: #004b0c;
     color: #ffffff
 }
 .color-theme-blue .background {
@@ -1583,13 +1583,13 @@ hr {
     color: #f4465e;
 }
 .color-success {
-    color: #00c473;
+    color: #004b0c;
 }
 .bg-color-success {
-    background: #00c473;
+    background: #004b0c;
 }
 .item-media .color-success .icon {
-    color: #00c473;
+    color: #004b0c;
 }
 .color-warning {
     color: #ffc000;

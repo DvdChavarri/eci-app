@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="io.cordova.eci" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>HelloCordova</name>
+    <name>Callao Experience</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        El Corte Ingles new Callao Experience App.
     </description>
     <author email="dev@cordova.apache.org" href="http://cordova.io">
         Apache Cordova Team
@@ -16,8 +16,13 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+    <icon src="res/icon/icon-48-mdpi.png" />
     <platform name="android">
         <allow-intent href="market:*" />
+        <splash density="port-hdpi" src="res/screen/android/screen-mdpi-portrait.png" />
+        <splash density="port-ldpi" src="res/screen/android/screen-mdpi-portrait.png" />
+        <splash density="port-mdpi" src="res/screen/android/screen-mdpi-portrait.png" />
+        <splash density="port-xhdpi" src="res/screen/android/screen-mdpi-portrait.png" />
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
@@ -26,5 +31,10 @@
     <plugin name="phonegap-plugin-barcodescanner" spec="^8.0.1">
         <variable name="ANDROID_SUPPORT_V4_VERSION" value="27.+" />
     </plugin>
+    <preference name="SplashScreenDelay" value="1500" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="ShowSplashScreenSpinner" value="false" />
+    <preference name="Orientation" value="portrait" />
+    <plugin name="cordova-plugin-splashscreen" spec="^5.0.2" />
     <engine name="android" spec="^7.1.4" />
 </widget>
