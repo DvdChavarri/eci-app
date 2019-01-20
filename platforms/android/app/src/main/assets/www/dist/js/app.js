@@ -1,3 +1,49 @@
+// Cordova Scann
+
+function Scan(){
+  // // Start a scan. Scanning will continue until something is detected or
+  // // `QRScanner.cancelScan()` is called.
+  // QRScanner.scan(displayContents);
+
+  // function displayContents(err, text){
+  //   if(err){
+  //     // an error occurred, or the scan was canceled (error code `6`)
+  //   } else {
+  //     // The scan completed, display the contents of the QR code:
+  //     alert(text);
+  //   }
+  // }
+
+  // // Make the webview transparent so the video preview is visible behind it.
+  // QRScanner.show();
+  // // Be sure to make any opaque HTML elements transparent here to avoid
+  // // covering the video.
+  cordova.plugins.barcodeScanner.scan(
+      function (result) {
+          alert("We got a barcode\n" +
+                "Result: " + result.text + "\n" +
+                "Format: " + result.format + "\n" +
+                "Cancelled: " + result.cancelled);
+      },
+      function (error) {
+          alert("Scanning failed: " + error);
+      },
+      {
+          preferFrontCamera : false, // iOS and Android
+          showFlipCameraButton : false, // iOS and Android
+          showTorchButton : true, // iOS and Android
+          torchOn: false, // Android, launch with the torch switched on (if available)
+          saveHistory: true, // Android, save scan history (default false)
+          prompt : "Place a barcode inside the scan area", // Android
+          resultDisplayDuration: 500, // Android, display scanned text for X ms. 0 suppresses it entirely, default 1500
+          formats : "QR_CODE,PDF_417", // default: all but PDF_417 and RSS_EXPANDED
+          orientation : "portrait", // Android only (portrait|landscape), default unset so it rotates with the device
+          disableAnimations : true, // iOS
+          disableSuccessBeep: false // iOS and Android
+      }
+  );
+}
+
 // Dom7
 var $$ = Dom7;
 

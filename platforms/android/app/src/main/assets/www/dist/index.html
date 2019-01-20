@@ -7,16 +7,29 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <meta name="theme-color" content="#2196f3">
   <meta http-equiv="Content-Security-Policy" content="default-src * 'self' 'unsafe-inline' 'unsafe-eval' data: gap:">
-  <title>MobileUX</title>
-  <link rel="stylesheet" href="css/framework7.min.css">
+  <title>El Corte Ingles</title>
+  <link rel="stylesheet" href="css/framework7.css">
     
   <!-- Custom style  -->    
   <link rel="stylesheet" href="css/app.css">
   <link rel="apple-touch-icon" href="img/f7-icon-square.png">
   <link rel="icon" href="img/f7-icon.png">
+  <!-- <script src="cordova.js"></script> -->
+  <script>
+        // Wait for device API libraries to load
+        //
+        function onLoad() {
+            document.addEventListener("deviceready", onDeviceReady, false);
+        }
+        // device APIs are available
+        //
+        function onDeviceReady() {
+            // Now safe to use device APIs
+        }
+  </script>
 </head>
-<body >
-    <div id="mobileux" class="sidebar-fill color-theme-red">
+<body onload="onLoad()">
+    <div id="mobileux" class="sidebar-fill color-theme-green">
         <div class="statusbar"></div>
         <!-- left menu code  -->
         <div class="panel panel-left panel-cover">
@@ -154,7 +167,7 @@
             <div class="page-content login-page triangle-background">
                 <div class="block text-align-center">
                     <img src="img/logo.png" alt="" class="login-logo">
-                    <h1 class="login-title"><small>Welcome to,</small><br>MobileUX</h1>
+                    <h1 class="login-title"><small>Welcome to,</small><br>El Corte Ingles</h1>
                 </div>
                 <br>
                 <div class="tabscontainer">
@@ -201,7 +214,8 @@
                             </div>
                             <div class="row">
                                 <div class="col-50"></div>
-                                <div class="col-50"><a href="/homepage/"  class="col col-50 button gradient signinbuttn md-elevation-6">Sign In</a></div>
+                                <div class="col-50"><a  href="/homepage/"  class="col col-50 button gradient signinbuttn md-elevation-6">Sign In</a></div>
+                                <!-- <div class="col-50"><a  id="signInButton" onclick="Scan();"  class="col col-50 button gradient signinbuttn md-elevation-6">Sign In</a></div> -->
                             </div>
                               <br>
                               

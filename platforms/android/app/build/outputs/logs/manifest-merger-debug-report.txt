@@ -1,13 +1,24 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
-INJECTED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
-INJECTED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
-INJECTED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
+ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
+MERGED from [:barcodescanner-release-2.1.5:] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\9ad5532296a6d607f95293a8fbe494ed\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\cedfcb0950a69b1a6ca40c4c18e2f178\AndroidManifest.xml:17:1-22:12
 MERGED from [:CordovaLib] C:\pocs\marketing\eci-app\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
-INJECTED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
-INJECTED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
-INJECTED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\129bd3dd59f6830e80e8fca2ef2fd409\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6b615b1883519e5a55556d22857f124b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\45b706d2eb38c294904ea547af9a1736\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\717a68b7dbdcbe06b813504af70081a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0d3b8e6877ab996c41ec758764f53939\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c8ce50af172079de014e09fce67075db\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3f35f25847b209b321c27654d5286d4f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0436673ac191bb66dd254082cccedd4c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dcf6135d8d78029f2dc86b46d57db95b\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
 	package
 		ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:2:102-126
 		INJECTED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml
@@ -43,7 +54,9 @@ ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManif
 	android:name
 		ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:5:5-12:19
+ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:5:5-14:19
+MERGED from [:barcodescanner-release-2.1.5:] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\9ad5532296a6d607f95293a8fbe494ed\AndroidManifest.xml:11:5-12:19
+MERGED from [:barcodescanner-release-2.1.5:] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\9ad5532296a6d607f95293a8fbe494ed\AndroidManifest.xml:11:5-12:19
 	android:supportsRtl
 		ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:5:114-140
 	android:label
@@ -78,15 +91,71 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:9:17-77
 	android:name
 		ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
+activity#com.google.zxing.client.android.CaptureActivity
+ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:12:9-311
+	android:clearTaskOnLaunch
+		ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:12:19-51
+	android:windowSoftInputMode
+		ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:12:261-308
+	android:exported
+		ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:12:114-138
+	android:configChanges
+		ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:12:52-113
+	android:theme
+		ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:12:202-260
+	android:name
+		ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:12:139-201
+activity#com.google.zxing.client.android.encode.EncodeActivity
+ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:13:9-112
+	android:label
+		ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:13:19-40
+	android:name
+		ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:13:41-109
 uses-sdk
-ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:13:5-74
-INJECTED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:13:5-74
+ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:15:5-74
+INJECTED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:15:5-74
+MERGED from [:barcodescanner-release-2.1.5:] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\9ad5532296a6d607f95293a8fbe494ed\AndroidManifest.xml:7:5-9:41
+MERGED from [:barcodescanner-release-2.1.5:] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\9ad5532296a6d607f95293a8fbe494ed\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\cedfcb0950a69b1a6ca40c4c18e2f178\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\cedfcb0950a69b1a6ca40c4c18e2f178\AndroidManifest.xml:20:5-44
 MERGED from [:CordovaLib] C:\pocs\marketing\eci-app\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
 MERGED from [:CordovaLib] C:\pocs\marketing\eci-app\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
-INJECTED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:13:5-74
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\129bd3dd59f6830e80e8fca2ef2fd409\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\129bd3dd59f6830e80e8fca2ef2fd409\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6b615b1883519e5a55556d22857f124b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6b615b1883519e5a55556d22857f124b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\45b706d2eb38c294904ea547af9a1736\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\45b706d2eb38c294904ea547af9a1736\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\717a68b7dbdcbe06b813504af70081a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\717a68b7dbdcbe06b813504af70081a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0d3b8e6877ab996c41ec758764f53939\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0d3b8e6877ab996c41ec758764f53939\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c8ce50af172079de014e09fce67075db\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c8ce50af172079de014e09fce67075db\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3f35f25847b209b321c27654d5286d4f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3f35f25847b209b321c27654d5286d4f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0436673ac191bb66dd254082cccedd4c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0436673ac191bb66dd254082cccedd4c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dcf6135d8d78029f2dc86b46d57db95b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\e050348\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dcf6135d8d78029f2dc86b46d57db95b\AndroidManifest.xml:20:5-44
+INJECTED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:15:5-74
 	android:targetSdkVersion
-		ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:13:42-71
+		ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:15:42-71
 	android:minSdkVersion
-		ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:13:15-41
+		ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:15:15-41
 		INJECTED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:16:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:17:5-69
+	android:name
+		ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:17:22-66
+uses-feature#android.hardware.camera
+ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:18:5-84
+	android:required
+		ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:18:58-81
+	android:name
+		ADDED from C:\pocs\marketing\eci-app\platforms\android\app\src\main\AndroidManifest.xml:18:19-57
