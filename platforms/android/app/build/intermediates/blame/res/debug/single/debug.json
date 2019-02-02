@@ -104,24 +104,24 @@
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_thumb_material.xml.flat",
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -180,12 +180,12 @@
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-mdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-xhdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-mdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -240,12 +240,12 @@
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\9ad5532296a6d607f95293a8fbe494ed\\res\\layout-land\\share.xml"
     },
     {
-        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\0d3b8e6877ab996c41ec758764f53939\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\0d3b8e6877ab996c41ec758764f53939\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_zxing_capture.xml.flat",
@@ -372,12 +372,12 @@
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\129bd3dd59f6830e80e8fca2ef2fd409\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
@@ -428,20 +428,20 @@
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
-        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\0d3b8e6877ab996c41ec758764f53939\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\0d3b8e6877ab996c41ec758764f53939\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
@@ -468,12 +468,12 @@
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-xxxhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
-        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background_dark.xml.flat",
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -484,12 +484,12 @@
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "C:\\pocs\\marketing\\eci_app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi_screen.png.flat",
-        "source": "C:\\pocs\\marketing\\eci_app\\platforms\\android\\app\\src\\main\\res\\drawable-land-xhdpi\\screen.png"
-    },
-    {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\pocs\\marketing\\eci_app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi_screen.png.flat",
+        "source": "C:\\pocs\\marketing\\eci_app\\platforms\\android\\app\\src\\main\\res\\drawable-land-xhdpi\\screen.png"
     },
     {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -540,12 +540,12 @@
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\0d3b8e6877ab996c41ec758764f53939\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\pocs\\marketing\\eci_app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi_screen.png.flat",
         "source": "C:\\pocs\\marketing\\eci_app\\platforms\\android\\app\\src\\main\\res\\drawable-land-mdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
@@ -584,12 +584,12 @@
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\9ad5532296a6d607f95293a8fbe494ed\\res\\drawable\\launcher_icon.png"
     },
     {
-        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-ldrtl-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\drawable-ldrtl-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_pressed_holo_dark.9.png.flat",
@@ -756,12 +756,12 @@
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\0d3b8e6877ab996c41ec758764f53939\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
-        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\0d3b8e6877ab996c41ec758764f53939\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "C:\\Users\\e050348\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\b85dec23ec90b44cf437269e67aebb8d\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "C:\\pocs\\marketing\\eci-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",

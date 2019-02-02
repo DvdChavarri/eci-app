@@ -1,0 +1,106 @@
+<template>
+    <div class="page">
+        <div class="navbar no-shadow">
+            <div class="navbar-inner sliding">
+                <div class="left">
+                    <a href="#" class="link back">
+                        <i class="icon icon-back"></i>
+                        <span class="ios-only">Back</span>
+                    </a>
+                </div>
+                <div class="title sliding text-align-center w-100">Color Themes</div>
+                <div class="right">
+                    <a class="link icon-only searchbar-enable" data-searchbar=".searchbar-components">
+                        <i class="icon f7-icons ios-only">search</i>
+                        <i class="icon material-icons md-only">search</i>
+                    </a>
+                </div>
+                <form data-search-container=".components-list" data-search-in="a" class="searchbar searchbar-expandable searchbar-components searchbar-init">
+                    <div class="searchbar-inner">
+                        <div class="searchbar-input-wrap">
+                            <input type="search" placeholder="Search components" />
+                            <i class="searchbar-icon"></i>
+                            <span class="input-clear-button"></span>
+                        </div>
+                        <span class="searchbar-disable-button">Cancel</span>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="page-content triangle-background">
+            <div class="block-title  color-dark">Layout Scheme</div>
+            <div class="block">
+                <p>MobileUX comes with 2 main layout Scheme: Light (default) and Dark:</p>
+                <div class="row">
+                    <div class="col-50 bg-color-white" @click="setLayoutTheme('light')" style="cursor: pointer; padding: 30px; border: 1px solid rgba(0,0,0,0.1)"></div>
+                    <div class="col-50 bg-color-black" @click="setLayoutTheme('dark')" style="cursor: pointer; padding: 30px; border: 1px solid rgba(255,255,255,0.1)"></div>
+                </div>
+            </div>
+            <div class="block-title color-dark">Choose Color Scheme</div>
+            <div class="block">
+                <p>MobileUX comes with {{colorsAmount}} color Scheme set.</p>
+                <div class="row">
+                    {{#each colors}}
+                    <div class="col-33">
+                        <button class="button button-fill button-raised color-{{this}}" @click="setColorTheme('{{this}}')">{{this}}</button>
+                    </div>
+                    {{/each}}
+                    <div class="col-33"></div>
+                </div>
+            </div>
+            <div class="block-title  color-dark">Themes</div>
+            <div class="list links-list searchbar-hide-on-search">
+                <ul>
+                    <li>
+                        <a href="./index.html?theme=ios" class="external">iOS Theme</a>
+                    </li>
+                    <li>
+                        <a href="./index.html?theme=md" class="external">Material (MD) Theme</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</template>
+<style scoped>
+    .button {
+        margin-bottom: 1em;
+        text-transform: capitalize;
+    }
+
+</style>
+<script>
+    return {
+        data: function() {
+            var colors = [
+                'red',
+                'green',
+                'blue',
+                'pink',
+                'yellow',
+                'orange',
+                'gray',
+                'black',
+            ];
+            return {
+                colors: colors,
+                colorsAmount: colors.length,
+            };
+        },
+        methods: {
+            setLayoutTheme: function(theme) {
+                var self = this;
+                var app = self.$app;
+                app.root.removeClass('theme-dark theme-light').addClass('theme-' + theme);
+            },
+            setColorTheme: function(color) {
+                var self = this;
+                var app = self.$app;
+                var currentColorClass = app.root[0].className.match(/color-theme-([a-z]*)/);
+                if (currentColorClass) app.root.removeClass(currentColorClass[0])
+                app.root.addClass('color-theme-' + color);
+            },
+        }
+    }
+
+</script>
