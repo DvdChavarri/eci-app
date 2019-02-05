@@ -21,33 +21,38 @@ function Scan(){
   // // covering the video.
 
 
-  cordova.plugins.barcodeScanner.scan(
-      function (result) {
-          if(!result.cancelled){
-            app.router.navigate({ url: '/page-loader-component/eve/' + result.text + '/about-me/1/?start=0&end=30#top' });
-          }
-          // alert("We got a barcode\n" +
-          //       "Result: " + result.text + "\n" +
-          //       "Format: " + result.format + "\n" +
-          //       "Cancelled: " + result.cancelled);
-      },
-      function (error) {
-          alert("Scanning failed: " + error);
-      },
-      {
-          preferFrontCamera : false, // iOS and Android
-          showFlipCameraButton : false, // iOS and Android
-          showTorchButton : true, // iOS and Android
-          torchOn: false, // Android, launch with the torch switched on (if available)
-          saveHistory: true, // Android, save scan history (default false)
-          prompt : "Scan the product you want to know more", // Android
-          resultDisplayDuration: 500, // Android, display scanned text for X ms. 0 suppresses it entirely, default 1500
-          formats : "QR_CODE,PDF_417", // default: all but PDF_417 and RSS_EXPANDED
-          orientation : "portrait", // Android only (portrait|landscape), default unset so it rotates with the device
-          disableAnimations : true, // iOS
-          disableSuccessBeep: false // iOS and Android
-      }
-  );
+  // app.router.load( { url :'http://www.elcorteingles.es/moda/A25270654-gabardina-de-hombre-black-emidio-tucci-azul-con-dos-bolsillos/' } );
+  // app.router.load( { content : "<iframe width=\"100%\" style=\"height: 100em;\" src=\"http://www.elcorteingles.es/moda/A25270654-gabardina-de-hombre-black-emidio-tucci-azul-con-dos-bolsillos/\" frameborder=\"0\">Hello Work!</iframe>" } );
+  // app.router.load("<div>Hello World</div>");
+    app.router.navigate({ url: '/sale/' });
+
+  // cordova.plugins.barcodeScanner.scan(
+  //     function (result) {
+  //         if(!result.cancelled){
+  //           app.router.navigate({ url: '/page-loader-component/eve/' + result.text + '/about-me/1/?start=0&end=30#top' });
+  //         }
+  //         // alert("We got a barcode\n" +
+  //         //       "Result: " + result.text + "\n" +
+  //         //       "Format: " + result.format + "\n" +
+  //         //       "Cancelled: " + result.cancelled);
+  //     },
+  //     function (error) {
+  //         alert("Scanning failed: " + error);
+  //     },
+  //     {
+  //         preferFrontCamera : false, // iOS and Android
+  //         showFlipCameraButton : false, // iOS and Android
+  //         showTorchButton : true, // iOS and Android
+  //         torchOn: false, // Android, launch with the torch switched on (if available)
+  //         saveHistory: true, // Android, save scan history (default false)
+  //         prompt : "Scan the product you want to know more", // Android
+  //         resultDisplayDuration: 500, // Android, display scanned text for X ms. 0 suppresses it entirely, default 1500
+  //         formats : "QR_CODE,PDF_417", // default: all but PDF_417 and RSS_EXPANDED
+  //         orientation : "portrait", // Android only (portrait|landscape), default unset so it rotates with the device
+  //         disableAnimations : true, // iOS
+  //         disableSuccessBeep: false // iOS and Android
+  //     }
+  // );
 }
 
 // Dom7

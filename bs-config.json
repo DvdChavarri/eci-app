@@ -1,0 +1,8 @@
+{
+    "port": 3000,
+    "cors": true,
+    "server": {
+      "baseDir": "./www"
+    },
+    "browser": ["chrome"]
+  }

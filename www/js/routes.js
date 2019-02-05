@@ -92,9 +92,21 @@ var routes = [
     path: '/chat/',
     url: './pages/chat.html',
   },
-    
-    
-    
+  
+  {
+    path: '/notifications/',
+    url: './pages/notifications.html',
+  },
+
+  {
+    path: '/cortitokens/',
+    url: './pages/cortitokens.html',
+  },
+
+  {
+    path: '/sale/',
+    url: './pages/sale.html',
+  },
 
   // Color Themes
   {

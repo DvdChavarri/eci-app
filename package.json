@@ -5,10 +5,10 @@
   "author": "dvdchavarri@gmail.com <dvdchavarri@gmail.com>",
   "private": true,
   "scripts": {
-    "dev": "lite-server --baseDir=\"www\"",
+    "dev": "lite-server",
     "start": "npm run dev",
     "lint": "eslint --ext .js,.vue src",
-    "build": "node build/build.js"
+    "build": "cordova run android"
   },
   "dependencies": {
     "cordova-android": "^7.1.4",

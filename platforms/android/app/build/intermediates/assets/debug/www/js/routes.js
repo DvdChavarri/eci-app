@@ -92,9 +92,11 @@ var routes = [
     path: '/chat/',
     url: './pages/chat.html',
   },
-    
-    
-    
+  
+  {
+    path: '/sale/',
+    url: './pages/sale.html',
+  },
 
   // Color Themes
   {
